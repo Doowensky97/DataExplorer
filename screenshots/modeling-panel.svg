@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+  <rect width="1400" height="900" fill="#f5f7fb"/>
+  <rect x="0" y="0" width="1400" height="70" fill="#1f4e79"/>
+  <rect x="0" y="70" width="260" height="830" fill="#2f5d8a"/>
+  <rect x="280" y="95" width="1030" height="180" rx="16" fill="#ffffff" stroke="#d8e3f0"/>
+  <rect x="280" y="310" width="500" height="250" rx="16" fill="#ffffff" stroke="#d8e3f0"/>
+  <rect x="810" y="310" width="500" height="250" rx="16" fill="#ffffff" stroke="#d8e3f0"/>
+  <rect x="280" y="590" width="1030" height="220" rx="16" fill="#ffffff" stroke="#d8e3f0"/>
+  <text x="40" y="42" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">Modeling</text>
+  <text x="320" y="145" fill="#1f2937" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Training settings</text>
+  <text x="320" y="360" fill="#1f2937" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Model performance</text>
+  <text x="840" y="360" fill="#1f2937" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">ROC curves</text>
+  <text x="320" y="640" fill="#1f2937" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Feature Importance</text>
+  <rect x="320" y="170" width="180" height="28" rx="14" fill="#5aa8ff"/>
+  <rect x="320" y="215" width="220" height="28" rx="14" fill="#8ac7ff"/>
+  <rect x="840" y="395" width="300" height="16" rx="8" fill="#5aa8ff"/>
+  <rect x="840" y="430" width="240" height="16" rx="8" fill="#8ac7ff"/>
+</svg>
